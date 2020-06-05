@@ -9,7 +9,7 @@
 ### How to Run
 * Go to the root folder and execute the command : ```make -B```.
 
-### Game Play
+### Gameplay
 * Below is an extract of gameplay taken from the game. 
 ``` 
 Please enter a word you would like to play : 
