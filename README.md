@@ -1,4 +1,4 @@
-## Hangman
+## Hangman in C
 
 ### About 
 * This is a hangman program in C that takes in a string input which is then converted into a series of '-'s and then allows the user to guess each character in the hidden string. This program makes use of pointers and array data structures extensively. 
