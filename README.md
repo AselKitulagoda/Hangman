@@ -4,7 +4,7 @@
 * This is a hangman program in C that takes in a string input which is then converted into a series of '-'s and then allows the user to guess each character in the hidden string. This program makes use of pointers and array data structures extensively. 
 
 ### Pre-requisities 
-* You need to have ***GCC*** installed from [here](https://gcc.gnu.org/install/)
+* You need to have ***GCC*** installed from [here](https://gcc.gnu.org/install/).
 
 ### How to Run
 * Go to the root folder and execute the command : ```make -B```.
